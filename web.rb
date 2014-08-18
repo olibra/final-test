@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "testing!!"
+  "testing from github!!"
 end
